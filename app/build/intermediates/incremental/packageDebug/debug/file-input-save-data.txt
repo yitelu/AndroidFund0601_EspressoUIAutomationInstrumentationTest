@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Dec 17 03:39:26 PST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\AndroidTemp\\GoogleLearning\\AndroidFund_0601\\TwoActivitiesEspresso\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+0.path=classes.dex
+0.set=DEX
+count=1
