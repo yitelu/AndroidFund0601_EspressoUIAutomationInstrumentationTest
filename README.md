@@ -1,22 +1,3 @@
-TwoActivitiesEspresso - Solution Code
-=====================================
-
-The TwoActivities app contains two activities. It uses an explicit
-Intent to launch one Activity from another, and uses Intent extras to
-pass data between them. This version includes an Espresso test that
-tests the Activity launch and Intent extras.
-
-Pre-requisites
---------------
-
-For this app you should be familiar with:
-* Creating and running apps in Android Studio.
-
-Getting Started
----------------
-
-1. Download and open the app in Android Studio.
-
 License
 -------
 
